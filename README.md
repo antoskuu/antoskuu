@@ -1,7 +1,7 @@
 Étudiant en télécommunications à l’INSA Lyon  
 Passionné par le développement logiciel, l'open source, ai enthusiast, la cybersécurité, linux, le hardware, android...
 
-## 📌 Projets en avant
+📌 Projets en avant
 [looplist.studio
 ](https://www.looplist.studio/)
 ---
