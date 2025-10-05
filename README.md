@@ -7,4 +7,3 @@ Passionné par le développement logiciel, l'open source, AI enthusiast, la cybe
 Projet to-do list moderne (expérimentation intégration IA, SEO, hosting)  
 Flutter, Supabase, OpenAI, Vue.js
 
-*Profil mis à jour régulièrement. N’hésitez pas à explorer mes projets 👇*
