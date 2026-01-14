@@ -5,8 +5,8 @@ Passionné par le développement logiciel, l'open source, AI enthusiast, la cybe
 
 [looplist.studio](https://www.looplist.studio/)  
 Projet to-do list moderne (expérimentation intégration IA, SEO, hosting)  
-Flutter, Supabase, OpenAI, Vue.js
+(Flutter, Supabase, OpenAI, Vue.js)
 
-[education.pagina.fr](https://education.pagina.fr)
+[education.conpagina.fr](https://education.conpagina.fr)
 SaaS de lecture collaborative complète - Alternative à glose
-Next.js, Better Auth, Prisma, PostgreSQL, Bun, Turborepo, Docker
+(Next.js, Better Auth, Prisma, PostgreSQL, Bun, Turborepo, Docker)
