@@ -7,3 +7,6 @@ Passionné par le développement logiciel, l'open source, AI enthusiast, la cybe
 Projet to-do list moderne (expérimentation intégration IA, SEO, hosting)  
 Flutter, Supabase, OpenAI, Vue.js
 
+[education.pagina.fr](https://education.pagina.fr)
+SaaS de lecture collaborative complète - Alternative à glose
+Next.js, Better Auth, Prisma, PostgreSQL, Bun, Turborepo, Docker
